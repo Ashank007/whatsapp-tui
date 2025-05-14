@@ -52,8 +52,6 @@ go build -o whatsapp-tui
 ./whatsapp-tui
 ```
 
-If you dont want to take so much headache,do one thing download the binary file from the repo itself for ur OS type and place it in a folder where contacts.json is present and then run it directly.
-
 ### contacts.json Format
 Create a contacts.json file in the root directory with this format:
 
