@@ -22,11 +22,9 @@ A terminal-based WhatsApp messenger built in Go using [go-whatsapp](https://gith
 ## 📸 Screenshots
 
 ```md
-![Screenshot 1](assets/1.png)
-![Screenshot 2](assets/2.png)
-![Screenshot 2](assets/3.png)
-
-```
+![Home Page](assets/1.png)
+![Message Page](assets/2.png)
+![Final Page](assets/3.png)
 
 ## 📦 Installation
 ### 1. Clone the repository
