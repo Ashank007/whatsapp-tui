@@ -33,6 +33,9 @@ A terminal-based WhatsApp messenger built in Go using [go-whatsapp](https://gith
 ---
 
 
+#### Only Works on Linux System Currently 
+
+
 ## 📦 Installation
 ### 1. Clone the repository
 ```bash

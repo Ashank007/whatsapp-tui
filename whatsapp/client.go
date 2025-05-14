@@ -65,3 +65,4 @@ func Connect(dbPath string) *whatsmeow.Client {
     return client
 }
 
+
